@@ -5,7 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      oooooooo
-// @downloadURL https://raw.githubusercontent.com/oooooooo//email-on-zendesk-ticket-userscript/main.js
+// @downloadURL https://raw.githubusercontent.com/oooooooo/email-on-zendesk-ticket-userscript/main/main.js
 // @homepageURL https://github.com/oooooooo/email-on-zendesk-ticket-userscript
 // @description Name -> Name <email>
 // ==/UserScript==
