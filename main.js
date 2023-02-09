@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Email on Zendesk ticket for Userscript
+// @name        Email on Zendesk Ticket for Userscript
 // @namespace   Violentmonkey Scripts
 // @match       https://*.zendesk.com/*
 // @grant       none

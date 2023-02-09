@@ -1,4 +1,4 @@
-# Email on Zendesk ticket for Userscript
+# Email on Zendesk Ticket for Userscript
 
 Email no longer appear on the Zendesk ticket in early 2023.
 
